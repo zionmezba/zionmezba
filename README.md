@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zionmezba/zionmezba/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/zionmezba/zionmezba/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
