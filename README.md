@@ -1,5 +1,5 @@
+![](https://komarev.com/ghpvc/?username=zionmezba&base=9590&abbreviated=true)
 <h2 align="left">Hi 👋! My name is Md. Mezbaul Islam Zion I'm an Application Developer</h2>
-![](https://komarev.com/ghpvc/?username=zionmezba.zionmezba&base=9500&abbreviated=true)
 
 ###
 
