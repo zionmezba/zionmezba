@@ -1,4 +1,4 @@
-![logo](https://github.com/zionmezba/zionmezba/blob/main/Zion%20Banner.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Md. Mezbaul Islam Zion</h1>
 <h3 align="center">Driven problem solver and accomplished Flutter and Laravel developer with a solid foundation in object-oriented programming.</h3>
 
