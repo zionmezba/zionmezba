@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Md. Mezbaul Islam Zion I'm an Application Developer</h2>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zionmezba.zionmezba&"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zionmezba.zionmezba&base=9500"  />
 
 ###
 
