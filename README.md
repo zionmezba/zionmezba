@@ -25,7 +25,16 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,php,laravel,flutter,dart,mysql,html,css&perline=10" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,php,laravel,docker,kubernetes,postgres,firebase,aws,cloudflare,linux,nginx,redis,mysql,python,cpp,flutter,dart,html,css,git,github,vscode&perline=9" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel%20Inertia-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Inertia" />
+  <img src="https://img.shields.io/badge/Container%20Architecture-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" alt="Container Architecture" />
+  <img src="https://img.shields.io/badge/Server%20Administration-334155?style=for-the-badge&logo=linux&logoColor=white" alt="Server Administration" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/DevOps%20Automation-0f766e?style=for-the-badge&logo=ansible&logoColor=white" alt="DevOps Automation" />
+  <img src="https://img.shields.io/badge/System%20Design-1d4ed8?style=for-the-badge&logo=databricks&logoColor=white" alt="System Design" />
 </p>
 
 <p align="center">
