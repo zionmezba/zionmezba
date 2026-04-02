@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,php,laravel,docker,kubernetes,postgres,firebase,aws,cloudflare,linux,nginx,redis,mysql,python,cpp,flutter,dart,html,css,git,github,vscode&perline=9" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,php,laravel,docker,kubernetes,postgres,firebase,aws,cloudflare,linux,nginx,redis,mysql,python,cpp,flutter,dart,html,css,git,github,vscode,terraform,graphql&perline=9" alt="skills" />
 </p>
 
 <p align="center">
