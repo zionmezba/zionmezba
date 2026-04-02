@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1f2937,100:0f766e&text=ZiON&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1f2937,100:0f766e&text=ZiON&font=Montserrat&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=700&speed=30&color=0F766E&center=true&vCenter=true&width=950&lines=System+Architect;Software+Engineer;LLM%2FGenAI+Builder;Scalable+Platform+Designer" alt="typing title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=700&speed=30&color=0F766E&center=true&vCenter=true&width=950&lines=System+Architect;Software+Engineer;LLM%2FGenAI+Builder;Scalable+Platform+Designer" alt="typing title" />
 </p>
 
 <p align="center">
