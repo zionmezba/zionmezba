@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/zion_mezba/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="34" alt="Instagram" />
+  <a href="https://www.facebook.com/zion.mezba" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="34" alt="Facebook" />
   </a>
-  <a href="mailto:mezbazion@gmail.com" target="_blank">
+  <a href="mailto:me@zion-miz.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="34" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/zion-mezba/" target="_blank">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,php,laravel,docker,kubernetes,postgres,firebase,aws,cloudflare,linux,nginx,redis,mysql,python,cpp,flutter,dart,html,css,git,github,vscode,terraform,graphql&perline=9" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,php,laravel,docker,kubernetes,postgres,firebase,aws,cloudflare,linux,nginx,redis,mysql,python,cpp,flutter,dart,html,tailwind,git,github,vscode,terraform,graphql&perline=9" alt="skills" />
 </p>
 
 <p align="center">
